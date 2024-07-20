@@ -30,28 +30,23 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Desarrollo
 
-### Formulario de contacto
+### Formulario registro de usuarios
 
-![image](https://github.com/SuleiChang/empresa/assets/170781882/8f45f0fd-8799-43e0-905f-26c46baa8832)
+![image](https://github.com/user-attachments/assets/30f5edb9-1899-4c7c-a2e2-fa1256e1aa8f)
 
-### Correo enviado
+### Validaciones
 
-![image](https://github.com/SuleiChang/empresa/assets/170781882/4c546309-1f85-42e6-83df-97bddf8a9aad)
+![image](https://github.com/user-attachments/assets/0dfe5288-ee80-4f26-b509-29604e2d09cf)
 
-### Tabla
+### Notificacion de registro correcto
 
-![image](https://github.com/SuleiChang/empresa/assets/170781882/21a65e01-fbd6-42e4-81ed-7ee4c6f2b5b8)
+![image](https://github.com/user-attachments/assets/f4356727-8109-44b9-a685-6da826c4a868)
 
-### Editar contacto
+### Tabla de confirmación
 
-![image](https://github.com/SuleiChang/empresa/assets/170781882/0bd92174-3230-400e-b70d-e79f29ef5f7d)
+![image](https://github.com/user-attachments/assets/30f08d6d-882a-49a0-bc68-4536ce535977)
 
-### Tabla actualizada
+### Usuario en la BD (password encriptado)
 
-![image](https://github.com/SuleiChang/empresa/assets/170781882/95ee8f4f-2f72-48ba-a286-9949def32c3f)
+![image](https://github.com/user-attachments/assets/02130117-b9ab-4d05-aa14-c5bb8b010411)
 
-### Borrar registro
-
-![image](https://github.com/SuleiChang/empresa/assets/170781882/2191b92d-e700-4904-ad32-add947da391e)
-![image](https://github.com/SuleiChang/empresa/assets/170781882/d9c6edd4-6acb-462b-a861-9668617543c9)
-![image](https://github.com/SuleiChang/empresa/assets/170781882/b919a78f-5d5a-4ebf-b5b0-f6c41cb799b7)
